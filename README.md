@@ -28,3 +28,5 @@ Instead of training a model from labeled data, YOLOE allows users to define obje
 
 ### Final output on new image 
 <img width="615" height="222" alt="Screenshot 2025-10-31 142748" src="https://github.com/user-attachments/assets/56be04de-781c-4d24-9e7c-160f35216ddb" />
+
+> NOTE : The .ipynb notebook could not be uploaded due to widget metadata errors. Please run the provided .py file in Google Colab to execute the code and visualize the results.
