@@ -21,3 +21,7 @@ Instead of training a model from labeled data, YOLOE allows users to define obje
 2. Use these boxes as visual prompts for YOLOE inference.
 3. Run YOLOE on the target image to detect similar objects.
 4. Visualize the output with bounding boxes and labels.
+
+
+### Drawing the bounding boxes:
+<img width="471" height="263" alt="Screenshot 2025-10-31 142739" src="https://github.com/user-attachments/assets/1eec89e2-577a-4234-b3a1-89421108ea2c" />
