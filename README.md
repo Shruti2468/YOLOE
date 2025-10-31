@@ -1,2 +1,22 @@
 # YOLOE
 Implementing YOLOE Visual Prompt Segmentation
+
+###YOLOE Visual Prompt Implementation
+
+This project demonstrates how to use YOLOE (You Only Look Once Enhanced) for visual prompt–based object detection and segmentation.
+Instead of training a model from labeled data, YOLOE allows users to define objects of interest by drawing bounding boxes — these serve as visual prompts that guide the model to find similar objects in new images.
+
+###Features
+
+- Interactive bounding box creation using jupyter_bbox_widget
+- Visual prompt–guided detection and segmentation using YOLOE
+- Supports both source and target image workflows
+- Visual result annotation with Supervision and PIL
+
+###Workflow
+
+- Draw bounding boxes on the source image to define example objects.
+- Use these boxes as visual prompts for YOLOE inference.
+- Run YOLOE on the target image to detect similar objects.
+- Visualize the output with bounding boxes and labels.
+
